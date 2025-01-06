@@ -1,5 +1,6 @@
 
 console.log('Hello, Bebrai!');
+console.log('Bit js 01');
 
 console.log(4 + 5 * 7);
 
